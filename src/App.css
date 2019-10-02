@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.table {
+  margin-bottom: 0px;
+}
+
+.card-body {
+  padding: 0px;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
